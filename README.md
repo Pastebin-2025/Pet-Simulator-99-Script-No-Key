@@ -41,9 +41,6 @@ Welcome to the official **Roblox Pet Simulator 99 Script** repository! This scri
 **Disclaimer:**
 This script is for educational purposes only. Use at your own risk. We are not responsible for any actions taken by Roblox in response to the use of this script. Always stay within Roblox’s terms of service and use responsibly.
 
----
-
-**Roblox Pet Simulator 99 Script** is the ultimate tool for serious gamers looking to take their experience to the next level. Don’t miss out on this opportunity to unlock powerful features and make your game even more exciting. Download now and start dominating the Roblox Pet Simulator 99 universe today!
 
 ---
 
